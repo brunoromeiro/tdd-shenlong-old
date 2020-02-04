@@ -1,0 +1,19 @@
+{
+  "name": "tdd-shenlong",
+  "version": "1.0.0",
+  "description": "This project is a demo to show how develop an application using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watch shenlong"
+  },
+  "keywords": [
+    "tdd",
+    "dbz",
+    "goku"
+  ],
+  "author": "Bruno Romeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
