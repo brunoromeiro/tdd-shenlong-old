@@ -7,8 +7,6 @@ Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis
 
 Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Si num tem leite então bota uma pinga aí cumpadi! Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.
 
-![](../header.png)
-
 ## Instalação
 
 ```sh
